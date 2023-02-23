@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Cardiology",
+        "icon": "bi-person",
+        "path": "/cardioassess"
+    },
+    {
+        "title": "Dietetics",
+        "icon": "bi-person",
+        "path": "/dietassess"
+    },
+    {
+        "title": "Endocrinology",
+        "icon": "bi-person",
+        "path": "/endocrineassess"
+    },
+    {
+        "title": "ENT",
+        "icon": "bi-person",
+        "path": "/ENTassess"
+    },
+    {
+        "title": "General Medicine",
+        "icon": "bi-person",
+        "path": "/genmedassess"
+    },
+    {
+        "title": "General Surgery",
+        "icon": "bi-person",
+        "path": "/gensurgassess"
+    },
+    {
+        "title": "Marital Status",
+        "icon": "bi-person",
+        "path": "/maritalstatus"
+    }
+
+]
